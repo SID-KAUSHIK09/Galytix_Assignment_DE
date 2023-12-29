@@ -15,9 +15,9 @@ This project aims to provide a solution for the Galytix assignment. It includes 
 - **setup.py**: Script for setting up the project.
 
 ## How to run
--First download the pretrained set of Word2Vec vectors from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM
--Then run init_pipeline.py, it'll generate vectors.bin.
--Then run process_data.py, inside it there is main func where you can write any phrase and it'll return closest match from phrases.csv with distance.
+- First download the pretrained set of Word2Vec vectors from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM
+- Then run init_pipeline.py, it'll generate vectors.bin.
+- Then run process_data.py, inside it there is main func where you can write any phrase and it'll return closest match from phrases.csv with distance.
 
 ## Author
 - [Siddharth Kaushik](https://github.com/SID-KAUSHIK09)
